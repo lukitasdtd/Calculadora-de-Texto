@@ -1,7 +1,7 @@
 ## CALCULADORA DE TEXTO
 
 Do you speak another language?
-[English](README_EN.md)* Everything you need to know in English.
+[English](README.md)* Everything you need to know in English.
 
 ## Descripción
 En el presente código se ejecuta un pequeño programa que permite al usuario elegir cuatro opciones, el usuario debe ingresar una palabra o frase que, segun la eleccion que anteriormente se designe, se ejecutará.
